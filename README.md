@@ -4,7 +4,7 @@
 This is a linux server configuration project preceeded by the project Item Catalog (https://github.com/89jan25th/fullstack-item-catalog)
 
 ### How to run the program
-Connect to http://52.78.93.23.xip.io with Safari or Chrome browser.
+Connect to http://52.78.93.23.xip.io with Safari, Internet Explorer or Chrome browser.
 
 ### Server setup
 1. The server is on Amazon Lightsail
@@ -50,4 +50,4 @@ Root login is prohibited as below.
 LoginGraceTime 120
 PermitRootLogin no               
 StrictModes yes
-```# fullstack-LinuxServerConfiguration
+```
